@@ -1,0 +1,197 @@
+{"level":"error","message":"iukvhvhjvnv","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Cannot read property 'data' of undefined","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Cannot add or update a child row: a foreign key constraint fails (`sql_emploee`.`emploees`, CONSTRAINT `fk_emploees_positions1` FOREIGN KEY (`position_id`) REFERENCES `positions` (`position_id`) ON UPDATE CASCADE)","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Cannot read property 'message' of null","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Cannot add or update a child row: a foreign key constraint fails (`sql_emploee`.`emploees`, CONSTRAINT `fk_emploees_positions1` FOREIGN KEY (`position_id`) REFERENCES `positions` (`position_id`) ON UPDATE CASCADE)","service":"user-service"}
+{"level":"error","message":"Cannot add or update a child row: a foreign key constraint fails (`sql_emploee`.`emploees`, CONSTRAINT `fk_emploees_positions1` FOREIGN KEY (`position_id`) REFERENCES `positions` (`position_id`) ON UPDATE CASCADE)","service":"user-service"}
+{"level":"error","message":"res is not defined","service":"user-service"}
+{"level":"error","message":"emploeeController.getFilteredEmploees is not a function","service":"user-service"}
+{"level":"error","message":"sortBy is not defined","service":"user-service"}
+{"level":"error","message":"emploee_id is not defined","service":"user-service"}
+{"level":"error","message":"amountOnPage is not defined","service":"user-service"}
+{"level":"error","message":"amauntOnPage is not defined","service":"user-service"}
+{"level":"error","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 3 offset = NULL' at line 1","service":"user-service"}
+{"level":"error","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= NULL offset = NULL' at line 1","service":"user-service"}
+{"level":"error","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL offset  NULL' at line 1","service":"user-service"}
+{"level":"error","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL offset  0' at line 1","service":"user-service"}
+{"level":"error","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL offset  NULL' at line 1","service":"user-service"}
+{"level":"error","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL offset  0' at line 1","service":"user-service"}
+{"level":"error","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''All' offset  0' at line 1","service":"user-service"}
+{"level":"error","message":"employeeController.getEmploees is not a function","service":"user-service"}
+{"level":"error","message":"employeeModel.getAllEmploees is not a function","service":"user-service"}
+{"level":"error","message":"select * from `emploees` - Table 'sql_employees.emploees' doesn't exist","service":"user-service"}
+{"level":"error","message":"Cannot read property 'data' of undefined","service":"user-service"}
+{"level":"error","message":"Cannot read property 'data' of undefined","service":"user-service"}
+{"level":"error","message":"Cannot read property 'name' of undefined","service":"user-service"}
+{"level":"error","message":"Cannot read property 'name' of undefined","service":"user-service"}
+{"level":"error","message":"Cannot read property 'name' of undefined","service":"user-service"}
+{"level":"error","message":"Cannot read property 'name' of undefined","service":"user-service"}
+{"level":"error","message":"theSameDepartmentInDb is not defined","service":"user-service"}
+{"level":"error","message":"departmentController.addNewdepartment is not a function","service":"user-service"}
+{"level":"error","message":"insert into `users` (`department_id`, `name`) values (DEFAULT, 'Production') - Unknown column 'department_id' in 'field list'","service":"user-service"}
+{"level":"error","message":"insert into `users` (`name`) values ('Production') - Field 'email' doesn't have a default value","service":"user-service"}
+{"level":"error","message":"id is not defined","service":"user-service"}
+{"level":"error","message":"DepartmentController is not defined","service":"user-service"}
+{"level":"error","message":"emploee is not defined","service":"user-service"}
+{"level":"error","message":"insert into `users` (`age`, `date_quit`, `date_start`, `department`, `first_name`, `job_title`, `last_name`, `salary`) values ('1995-5-22', DEFAULT, '2022-5-22', DEFAULT, 'Eva', 'Executive Secretary', 'Spivakova', 28000) - Unknown column 'age' in 'field list'","service":"user-service"}
+{"level":"error","message":"insert into `employees` (`age`, `date_quit`, `date_start`, `department`, `first_name`, `job_title`, `last_name`, `salary`) values ('1995-5-22', DEFAULT, '2022-5-22', DEFAULT, 'Eva', 'Executive Secretary', 'Spivakova', 28000) - Field 'employee_id' doesn't have a default value","service":"user-service"}
+{"level":"error","message":"insert into `employees` (`age`, `date_quit`, `date_start`, `department`, `first_name`, `job_title`, `last_name`, `salary`) values ('1995-5-22', DEFAULT, '2022-5-22', DEFAULT, 'Eva', 'Executive Secretary', 'Spivakova', 28000) - Field 'employee_id' doesn't have a default value","service":"user-service"}
+{"level":"error","message":"employeeController.getEmploeeById is not a function","service":"user-service"}
+{"level":"error","message":"employeeModel.getEmploeeById is not a function","service":"user-service"}
+{"level":"error","message":"select * from `employees` inner join `department` on `employees`.`department` = `department`.`department_id` where `employee_id` = '1' - Table 'sql_employees.department' doesn't exist","service":"user-service"}
+{"level":"error","message":"select * from `employees` where `first_name` like '%g%' COLLATE utf8_bin or `first_name` like '%g%' COLLATE utf8_bin order by `salary` asc limit 32154687884646544 - COLLATION 'utf8_bin' is not valid for CHARACTER SET 'utf8mb4'","service":"user-service"}
+{"level":"error","message":"select * from `employees` where `first_name` like '%g%' COLLATE utf8_bin or `last_name` like '%g%' COLLATE utf8_bin order by `salary` asc limit 32154687884646544 - COLLATION 'utf8_bin' is not valid for CHARACTER SET 'utf8mb4'","service":"user-service"}
+{"level":"error","message":"select * from `employees` where `first_name` like '%g%' COLLATE utf8_bin or `last_name` like '%g%' COLLATE utf8_bin - COLLATION 'utf8_bin' is not valid for CHARACTER SET 'utf8mb4'","service":"user-service"}
+{"level":"error","message":"select * from `employees` where `first_name` like '%g%' COLLATE utf8_bin or `last_name` like '%g%' COLLATE utf8_bin order by `salary` asc limit 32154687884646544 - COLLATION 'utf8_bin' is not valid for CHARACTER SET 'utf8mb4'","service":"user-service"}
+{"level":"error","message":"select * from `employees` where `first_name` like '%g%' COLLATE utf8_bin order by `salary` asc limit 32154687884646544 - COLLATION 'utf8_bin' is not valid for CHARACTER SET 'utf8mb4'","service":"user-service"}
+{"level":"error","message":"Cannot access 'params' before initialization","service":"user-service"}
+{"level":"error","message":"paramsFunc is not a function","service":"user-service"}
+{"level":"error","message":"paramsFunc is not a function","service":"user-service"}
+{"level":"error","message":"emploee is not defined","service":"user-service"}
+{"level":"error","message":"update `employees` set `first_name` = 'Eva', `last_name` = 'Spivakova', `date_start` = '2022-5-22', `job_title` = 'Executive Secretary', `salary` = 28000, `age` = '1995-5-22' where `employee_id` = 'undefined' - Truncated incorrect DOUBLE value: 'undefined'","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"employeeId is not defined","service":"user-service"}
+{"level":"error","message":"Cannot read property 'split' of undefined","service":"user-service"}
+{"level":"error","message":"Cannot read property 'split' of undefined","service":"user-service"}
+{"level":"error","message":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"undefined is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"time?.split is not a function","service":"user-service"}
+{"level":"error","message":"time.split is not a function or its return value is not iterable","service":"user-service"}
+{"level":"error","message":"Cannot access 'timestamp' before initialization","service":"user-service"}
+{"level":"error","message":"time.split is not a function","service":"user-service"}
+{"level":"error","message":"time.split is not a function or its return value is not iterable","service":"user-service"}
+{"level":"error","message":"savedEmployee is not defined","service":"user-service"}
+{"level":"error","message":"update `employees` set `first_name` = 'Eva', `last_name` = 'Spivakova', `date_start` = '2022-5-21', `job_title` = 'Executive Secretary', `salary` = 28000, `age` = '1995-5-21', `date_quit` = NULL, `employee_id` = '21' where `employee_id` = 'undefined' - Truncated incorrect DOUBLE value: 'undefined'","service":"user-service"}
+{"level":"error","message":"update `employees` set `first_name` = 'Eva', `last_name` = 'Spivakova', `date_start` = '2022-5-21', `job_title` = 'Executive Secretary', `salary` = 28000, `age` = '1995-5-21', `date_quit` = NULL, `employee_id` = '21' where `employee_id` = 'undefined' - Truncated incorrect DOUBLE value: 'undefined'","service":"user-service"}
+{"level":"error","message":"update `employees` set `first_name` = 'Eva', `last_name` = 'Spivakova', `date_start` = '2022-5-21', `job_title` = 'Executive Secretary', `salary` = 28000, `age` = '1995-5-21', `date_quit` = NULL, `employee_id` = '21' where `employee_id` = 'undefined' - Truncated incorrect DOUBLE value: 'undefined'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
+{"level":"error","message":"Unknown database 'sql_test_employees'","service":"user-service"}
